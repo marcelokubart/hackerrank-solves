@@ -1,0 +1,19 @@
+{
+  "name": "hacker-rank-solves",
+  "version": "1.0.0",
+  "description": "Studies Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelokubart/hackerrank-solves.git"
+  },
+  "author": "Marcelo Kubart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelokubart/hackerrank-solves/issues"
+  },
+  "homepage": "https://github.com/marcelokubart/hackerrank-solves#readme"
+}
